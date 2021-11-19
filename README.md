@@ -11,7 +11,7 @@
 
 ## Description
 
-L'application doit permet à un utilisateur de jouer au Chifoumi (pierre-feuille-ciseaux) contre le serveur en 1 seul coup.
+L'application permet à un utilisateur de jouer au Chifoumi (pierre-feuille-ciseaux) contre le serveur en 1 seul coup.
 
 ##
 <p align="center"><em>christanvt 2021</em></p>
